@@ -1,2 +1,1 @@
-# uni
-assignments from university
+# projects
